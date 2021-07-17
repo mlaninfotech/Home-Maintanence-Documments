@@ -7,3 +7,4 @@
 Related Links.
 
 1. [List of available service](./list_of_Service.md)
+2. [Invoice details ](./Invoice_details.md)
