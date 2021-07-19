@@ -2,7 +2,7 @@
 1. Electrical , 
     1. Light 
     2. Fan 
-    3. Metor energy Meter 
+    3. Energy Meter 
     4. AC  
     5. Electric Panel. (LV). 
 2. ELVS
@@ -11,3 +11,4 @@
     3. Access
     4. PA System
     6. Data / Network
+3. Interior Design    
