@@ -1,15 +1,10 @@
 # List of service
-1. Electrical , 
-    1. Light 
-    2. Fan 
-    3. Energy Meter 
-    4. AC  
-    5. Electric Panel. (LV). 
-2. ELVS
-    1. CCTV
-    2. BMS
-    3. Access
-    4. PA System
-    6. Data / Network
-3. Interior Design & Execution with supply
-4. Civil Work    
+1. Electric Fan
+2. Electric Light
+3. Electric Motor
+4. Interior Job
+5. CCTV
+6. Data & Network system
+7. Sound system
+8. Fire Alarm System
+9. Access System
